@@ -1,6 +1,6 @@
 - Code for resolve equation systems with the Gauss Seidel method.
 
-- Developed for <abc Crea> - <Oscar Eduardo Ochoa Velasco>
+- Developed for abc Crea - Oscar Eduardo Ochoa Velasco
 
 Simple Steps for work with this code:
 - Download the complete repository or .py file
